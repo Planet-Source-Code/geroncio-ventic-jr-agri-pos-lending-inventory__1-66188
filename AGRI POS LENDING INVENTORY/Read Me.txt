@@ -1,0 +1,7 @@
+The Default username and password of administrator
+username: Admin
+Password: admin
+''''''''
+username: a
+password: a
+may angking bangis
